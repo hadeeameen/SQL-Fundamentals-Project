@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Sales Analytics — Business Insights Report
 
 ## Project Overview
@@ -38,3 +39,6 @@ The dataset is small and synthetic. These findings demonstrate SQL analysis tech
 - PostgreSQL
 - SQL joins, aggregates, CTEs, subqueries, CASE expressions, and window functions
 - Git and GitHub
+=======
+
+>>>>>>> a712a9c36ae02eac9dabd6c148cc7c891ef6ed00
